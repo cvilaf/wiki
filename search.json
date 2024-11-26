@@ -11,7 +11,7 @@
     "href": "index.html#subheading",
     "title": "Website_Quarto1",
     "section": "Subheading",
-    "text": "Subheading\nThis is a paragraph with italic and bold text.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Subheading\nThis is a paragraph with italic and bold text.\n\n\n\nCaption\n\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "about.html",
