@@ -1,0 +1,13 @@
+project:
+  title: "my-quarto-site"
+  author: "Your Name"
+  theme: [journals]
+
+nav:
+  - Home: index.qmd
+  - About: about.qmd
+  - Contact: contact.qmd
+
+extensions:
+  - mermaid
+
